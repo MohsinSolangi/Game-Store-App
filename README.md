@@ -33,7 +33,7 @@ A full-stack web application built with **React** for the frontend and **Spring 
 3. Set up the frontend:
      Navigate to the frontend folder.
      Install dependencies using **npm install**.
-     Start the React development server using npm start.
+     Start the React development server using npm run dev.
 
 4. Access the application at http://localhost:5173.
 
