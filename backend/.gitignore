@@ -1,12 +1,3 @@
-# Java / Spring Boot ignores
-/backend/target/
-/backend/.idea/
-/backend/.classpath
-/backend/.project
-/backend/.settings
-*.iml
-
-
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -28,13 +19,15 @@ target/
 *.iml
 *.ipr
 
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
 
-
-# Node / React ignores
-/frontend/node_modules/
-/frontend/build/
-/frontend/.env
-
-# General
-.DS_Store
-*.log
+### VS Code ###
+.vscode/
