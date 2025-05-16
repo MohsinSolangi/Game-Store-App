@@ -37,7 +37,8 @@ A full-stack web application built with **React** for the frontend and **Spring 
 
 4. Access the application at http://localhost:5173.
 
-🧑‍💻 User Roles
+## 🧑‍💻 User Roles
+
 Admin: Full access to all CRUD operations and administrative features.
 
 User: Limited access to view, search and add to cart games.
